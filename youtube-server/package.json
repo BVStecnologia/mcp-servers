@@ -1,0 +1,21 @@
+{
+  "name": "youtube-mcp-server",
+  "version": "0.1.0",
+  "description": "Servidor MCP para interagir com a API do YouTube",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "youtube",
+    "claude",
+    "ai"
+  ],
+  "author": "Valdair",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.1.0"
+  }
+}
